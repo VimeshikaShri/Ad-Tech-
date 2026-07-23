@@ -1,6 +1,6 @@
 # AdTech Portfolio
 
-A portfolio-ready collection of five practical advertising measurement and optimization projects. Open `index.html` in a browser for the case-study view; implementation notes and reusable assets live in `projects/`.
+A portfolio-ready collection of five practical advertising measurement and optimization projects. Open `index.html` in a browser for the case-study view, implementation notes and reusable assets live in `projects/`.
 
 ## Live portfolio
 
